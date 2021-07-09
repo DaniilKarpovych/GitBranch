@@ -1,3 +1,4 @@
 another line!
 good evening (by master)
-line from user 1
+Line from user 2
+
