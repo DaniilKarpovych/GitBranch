@@ -1,2 +1,3 @@
 Hello !!
 Line from user2
+Adidas
